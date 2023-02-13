@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>N8; NCR; National Airlines; National Cargo;</rdf:li>
+     <rdf:li>N8, NCR, National Airlines, National Cargo,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

@@ -22,8 +22,8 @@
    </photoshop:SupplementalCategories>
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>PT; PDT; Piedmont Airlines; Piedmont; US Airways Express;</rdf:li>
-     <rdf:li>De Havilland Canada; DHC-8; Dash-8; De Havilland Canada DHC-8-300; DHC-8-300; DH8C;</rdf:li>
+     <rdf:li>PT, PDT, Piedmont Airlines, Piedmont, US Airways Express,</rdf:li>
+     <rdf:li>De Havilland Canada, DHC-8, Dash-8, De Havilland Canada DHC-8-300, DHC-8-300, DH8C,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <dc:description>

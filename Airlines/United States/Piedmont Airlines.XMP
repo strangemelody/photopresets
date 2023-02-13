@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>PT; PDT; Piedmont Airlines; Piedmont; American Eagle;</rdf:li>
+     <rdf:li>PT, PDT, Piedmont Airlines, Piedmont, American Eagle,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

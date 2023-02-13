@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>2D; EAL; Eastern Airlines; Eastern;</rdf:li>
+     <rdf:li>2D, EAL, Eastern Airlines, Eastern,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

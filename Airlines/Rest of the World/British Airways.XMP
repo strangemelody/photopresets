@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>BA; BAW; British Airways; Speedbird;</rdf:li>
+     <rdf:li>BA, BAW, British Airways, Speedbird,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

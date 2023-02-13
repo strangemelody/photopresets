@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>G6; GXA; Global Crossing Airlines; GlobalX; Gemini;</rdf:li>
+     <rdf:li>G6, GXA, Global Crossing Airlines, GlobalX, Gemini,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

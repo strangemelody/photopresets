@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>FX; FDX; FedEx Express; FedEx;</rdf:li>
+     <rdf:li>FX, FDX, FedEx Express, FedEx,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

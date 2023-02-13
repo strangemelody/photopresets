@@ -15,7 +15,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>Boeing; Boeing 767; 767-400; Boeing 767-400; B764</rdf:li>
+     <rdf:li>Boeing, Boeing 767, 767-400, Boeing 767-400, B764</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <photomechanic:FieldsToApply>

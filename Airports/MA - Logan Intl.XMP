@@ -21,7 +21,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>BOS; KBOS; Logan International Airport; Boston Logan;</rdf:li>
+     <rdf:li>BOS, KBOS, Logan International Airport, Boston Logan,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:LocationCreated>

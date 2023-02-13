@@ -15,7 +15,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>ATR; ATR 42; ATR 42-600; AT46</rdf:li>
+     <rdf:li>ATR, ATR 42, ATR 42-600, AT46</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <photomechanic:FieldsToApply>

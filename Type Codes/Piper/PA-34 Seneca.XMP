@@ -15,7 +15,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>Piper; PA-34; Piper PA-34; PA-34 Seneca; Piper PA-34 Seneca; PA34; private aircraft;</rdf:li>
+     <rdf:li>Piper, PA-34, Piper PA-34, PA-34 Seneca, Piper PA-34 Seneca, PA34, private aircraft,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <photomechanic:FieldsToApply>

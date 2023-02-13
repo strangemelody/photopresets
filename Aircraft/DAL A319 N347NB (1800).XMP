@@ -22,8 +22,8 @@
    </photoshop:SupplementalCategories>
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>DL; DAL; Delta Air Lines; Delta;</rdf:li>
-     <rdf:li>Airbus; A319; Airbus A319;</rdf:li>
+     <rdf:li>DL, DAL, Delta Air Lines, Delta,</rdf:li>
+     <rdf:li>Airbus, A319, Airbus A319,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <dc:description>

@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>5Y; GTI; Atlas Air; Giant;</rdf:li>
+     <rdf:li>5Y, GTI, Atlas Air, Giant,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

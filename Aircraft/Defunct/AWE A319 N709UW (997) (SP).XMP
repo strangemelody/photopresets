@@ -6,7 +6,7 @@
     xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/"
     xmlns:photomechanic="http://ns.camerabits.com/photomechanic/1.0/"
    photoshop:Category="Airbus A319-112"
-   photoshop:Headline="{day0}{monthname3:0:UC}{year2} {locationidtaken} · {featuredorgname} &quot;{suppcat3}&quot; · {category} · {persons}"
+   photoshop:Headline="{day0}{monthname3:0:UC}{year2} {locationidtaken} · {featuredorgname} &quot,{suppcat3}&quot, · {category} · {persons}"
    photomechanic:ColorClassEval="0"
    photomechanic:ColorClassApply="False"
    photomechanic:RatingEval="0"
@@ -24,7 +24,7 @@
    </photoshop:SupplementalCategories>
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>Airbus; A319; Airbus A319; US; AWE; US Airways; Cactus; special livery;</rdf:li>
+     <rdf:li>Airbus, A319, Airbus A319, US, AWE, US Airways, Cactus, special livery,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <dc:description>

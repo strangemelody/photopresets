@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>CX; CPA; Cathay Pacific Cargo; Cathay;</rdf:li>
+     <rdf:li>CX, CPA, Cathay Pacific Cargo, Cathay,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

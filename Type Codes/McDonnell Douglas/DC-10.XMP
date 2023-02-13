@@ -15,7 +15,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>McDonnell Douglas; DC-10; McDonnell Douglas DC-10; DC10;</rdf:li>
+     <rdf:li>McDonnell Douglas, DC-10, McDonnell Douglas DC-10, DC10,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <photomechanic:FieldsToApply>

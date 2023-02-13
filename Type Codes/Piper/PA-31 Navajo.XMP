@@ -15,7 +15,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>Piper; PA-31; Piper PA-31; PA-31 Navajo; Piper PA-31 Navajo; PA31; private aircraft;</rdf:li>
+     <rdf:li>Piper, PA-31, Piper PA-31, PA-31 Navajo, Piper PA-31 Navajo, PA31, private aircraft,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <photomechanic:FieldsToApply>

@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>DL; DAL; Delta Air Lines; Delta;</rdf:li>
+     <rdf:li>DL, DAL, Delta Air Lines, Delta,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

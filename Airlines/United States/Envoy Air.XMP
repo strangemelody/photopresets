@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>MQ; ENY; Envoy Air; Envoy; American Eagle;</rdf:li>
+     <rdf:li>MQ, ENY, Envoy Air, Envoy, American Eagle,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

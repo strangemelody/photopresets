@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>USAF; United States Air Force; U.S. Air Force; US Air Force; military aircraft;</rdf:li>
+     <rdf:li>USAF, United States Air Force, U.S. Air Force, US Air Force, military aircraft,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

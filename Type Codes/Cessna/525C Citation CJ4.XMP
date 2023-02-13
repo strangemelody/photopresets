@@ -15,7 +15,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>Cessna; CitationJet; Cessna Citation CJ4; Cessna 525C Citation CJ4; C25C; business jet;</rdf:li>
+     <rdf:li>Cessna, CitationJet, Cessna Citation CJ4, Cessna 525C Citation CJ4, C25C, business jet,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <photomechanic:FieldsToApply>

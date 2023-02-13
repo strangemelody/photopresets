@@ -21,7 +21,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>CMH; KCMH; John Glenn Columbus International Airport; John Glenn International Airport;</rdf:li>
+     <rdf:li>CMH, KCMH, John Glenn Columbus International Airport, John Glenn International Airport,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpCore:Scene>

@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>P3; CLU; CargoLogicAir; Firebird;</rdf:li>
+     <rdf:li>P3, CLU, CargoLogicAir, Firebird,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

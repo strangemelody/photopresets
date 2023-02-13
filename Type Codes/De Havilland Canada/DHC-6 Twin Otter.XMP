@@ -15,7 +15,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>De Havilland Canada; DHC-6; Dash-6; De Havilland Canada DHC-6; Twin Otter; De Havilland Canada Twin Otter; DHC-6 Twin Otter; De Havilland Canada DHC-6 Twin Otter; DHC6;</rdf:li>
+     <rdf:li>De Havilland Canada, DHC-6, Dash-6, De Havilland Canada DHC-6, Twin Otter, De Havilland Canada Twin Otter, DHC-6 Twin Otter, De Havilland Canada DHC-6 Twin Otter, DHC6,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <photomechanic:FieldsToApply>

@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>G4; AAY; Allegiant Air; Allegiant;</rdf:li>
+     <rdf:li>G4, AAY, Allegiant Air, Allegiant,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

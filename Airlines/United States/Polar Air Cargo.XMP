@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>PO; PAC; Polar Air Cargo; Polar;</rdf:li>
+     <rdf:li>PO, PAC, Polar Air Cargo, Polar,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

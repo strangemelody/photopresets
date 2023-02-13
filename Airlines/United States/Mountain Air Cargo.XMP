@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>C2; MTN; Mountain Air Cargo; Mountain; FedEx Feeder;</rdf:li>
+     <rdf:li>C2, MTN, Mountain Air Cargo, Mountain, FedEx Feeder,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>2I; CSB; 21 Air; Cargo South;</rdf:li>
+     <rdf:li>2I, CSB, 21 Air, Cargo South,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

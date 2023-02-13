@@ -15,7 +15,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>Cessna; Cessna 172; C172; private aircraft;</rdf:li>
+     <rdf:li>Cessna, Cessna 172, C172, private aircraft,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <photomechanic:FieldsToApply>

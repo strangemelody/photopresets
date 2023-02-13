@@ -15,7 +15,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>Honda; HondaJet; HA-420; Honda HA-420 HondaJet; HDJT; business jet;</rdf:li>
+     <rdf:li>Honda, HondaJet, HA-420, Honda HA-420 HondaJet, HDJT, business jet,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <photomechanic:FieldsToApply>

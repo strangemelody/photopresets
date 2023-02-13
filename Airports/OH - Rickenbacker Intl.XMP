@@ -21,7 +21,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>LCK; KLCK; Rickenbacker International Airport; Rickenbacker Airport;</rdf:li>
+     <rdf:li>LCK, KLCK, Rickenbacker International Airport, Rickenbacker Airport,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpCore:Scene>

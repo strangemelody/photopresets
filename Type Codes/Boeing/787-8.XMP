@@ -15,7 +15,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>Boeing; Boeing 787; 787 Dreamliner; Boeing 787 Dreamliner; 787-8; Boeing 787-8; 787-8 Dreamliner; Boeing 787-8 Dreamliner; B788</rdf:li>
+     <rdf:li>Boeing, Boeing 787, 787 Dreamliner, Boeing 787 Dreamliner, 787-8, Boeing 787-8, 787-8 Dreamliner, Boeing 787-8 Dreamliner, B788</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <photomechanic:FieldsToApply>

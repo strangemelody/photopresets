@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>A8; AMF; Ameriflight; Amflight;</rdf:li>
+     <rdf:li>A8, AMF, Ameriflight, Amflight,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

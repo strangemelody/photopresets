@@ -3,7 +3,7 @@
   <rdf:Description rdf:about=""
     xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
     xmlns:photomechanic="http://ns.camerabits.com/photomechanic/1.0/"
-   photoshop:Headline="{day0}{monthname3:0:UC}{year2} {locationidtaken} · {featuredorgname} &quot;{suppcat3}&quot; · {category} · {persons}"
+   photoshop:Headline="{day0}{monthname3:0:UC}{year2} {locationidtaken} · {featuredorgname} &quot,{suppcat3}&quot, · {category} · {persons}"
    photomechanic:ColorClassEval="0"
    photomechanic:ColorClassApply="False"
    photomechanic:RatingEval="0"

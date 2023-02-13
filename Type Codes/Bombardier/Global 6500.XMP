@@ -15,7 +15,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>Bombardier; Bombardier Global; Global 6500; Bombardier Global 6500; GLEX;</rdf:li>
+     <rdf:li>Bombardier, Bombardier Global, Global 6500, Bombardier Global 6500, GLEX,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <photomechanic:FieldsToApply>

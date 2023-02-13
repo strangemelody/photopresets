@@ -15,7 +15,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>Airbus; A220; Airbus A220; CSeries; Bombardier CSeries; A220-100; Airbus A220-100; CS100; Bombardier CS100; BCS1;</rdf:li>
+     <rdf:li>Airbus, A220, Airbus A220, CSeries, Bombardier CSeries, A220-100, Airbus A220-100, CS100, Bombardier CS100, BCS1,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <photomechanic:FieldsToApply>

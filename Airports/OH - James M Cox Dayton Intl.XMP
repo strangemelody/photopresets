@@ -21,7 +21,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>DAY; KDAY; James M. Cox Dayton Intl; Cox Dayton Intl;</rdf:li>
+     <rdf:li>DAY, KDAY, James M. Cox Dayton Intl, Cox Dayton Intl,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:LocationCreated>

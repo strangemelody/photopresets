@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>KD; WGN; Western Global Airlines; Western Global;</rdf:li>
+     <rdf:li>KD, WGN, Western Global Airlines, Western Global,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

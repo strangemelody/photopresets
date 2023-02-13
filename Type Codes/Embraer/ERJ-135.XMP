@@ -15,7 +15,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>Embraer; ERJ; Embraer ERJ; ERJ-135; Embraer ERJ-135; E135;</rdf:li>
+     <rdf:li>Embraer, ERJ, Embraer ERJ, ERJ-135, Embraer ERJ-135, E135,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <photomechanic:FieldsToApply>

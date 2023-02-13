@@ -15,7 +15,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>Airbus; A300-600; Airbus A300-600; A306;</rdf:li>
+     <rdf:li>Airbus, A300-600, Airbus A300-600, A306,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <photomechanic:FieldsToApply>

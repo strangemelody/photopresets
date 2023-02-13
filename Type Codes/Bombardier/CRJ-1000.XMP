@@ -15,7 +15,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>Bombardier; CRJ; Bombardier CRJ; CRJ-1000; Bombardier CRJ-1000; CRJX;</rdf:li>
+     <rdf:li>Bombardier, CRJ, Bombardier CRJ, CRJ-1000, Bombardier CRJ-1000, CRJX,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <photomechanic:FieldsToApply>

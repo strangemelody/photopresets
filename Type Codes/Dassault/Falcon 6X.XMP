@@ -15,7 +15,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>Dassault; Dassault Falcon; Falcon 6X; Dassault Falcon 6X; FA6X; business jet;</rdf:li>
+     <rdf:li>Dassault, Dassault Falcon, Falcon 6X, Dassault Falcon 6X, FA6X, business jet,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <photomechanic:FieldsToApply>

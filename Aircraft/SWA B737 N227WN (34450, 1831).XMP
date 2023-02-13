@@ -23,8 +23,8 @@
    </photoshop:SupplementalCategories>
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>WN; SWA; Southwest Airlines; Southwest;</rdf:li>
-     <rdf:li>Boeing; Boeing 737; 737 Next Generation; 737-700; Boeing 737-700; B737</rdf:li>
+     <rdf:li>WN, SWA, Southwest Airlines, Southwest,</rdf:li>
+     <rdf:li>Boeing, Boeing 737, 737 Next Generation, 737-700, Boeing 737-700, B737</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <dc:description>

@@ -15,7 +15,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>Boeing; Boeing 737; 737 MAX; Boeing 737 MAX; 737 MAX 10; Boeing 737 MAX 10; B3XM;</rdf:li>
+     <rdf:li>Boeing, Boeing 737, 737 MAX, Boeing 737 MAX, 737 MAX 10, Boeing 737 MAX 10, B3XM,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <photomechanic:FieldsToApply>

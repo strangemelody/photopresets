@@ -15,7 +15,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>Airbus; A380; Airbus A380; A380-800; Airbus A380-800; A388;</rdf:li>
+     <rdf:li>Airbus, A380, Airbus A380, A380-800, Airbus A380-800, A388,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <photomechanic:FieldsToApply>

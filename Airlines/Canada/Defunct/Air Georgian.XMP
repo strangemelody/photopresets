@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>ZX; GGN; Air Georgian; Georgian; Air Canada Express</rdf:li>
+     <rdf:li>ZX, GGN, Air Georgian, Georgian, Air Canada Express</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

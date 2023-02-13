@@ -22,9 +22,9 @@
    </photoshop:SupplementalCategories>
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>US Airways Express;</rdf:li>
-     <rdf:li>Bombardier; CRJ; Bombardier CRJ; CRJ-200; Bombardier CRJ-200; CRJ2;</rdf:li>
-     <rdf:li>OH; JIA; PSA Airlines; Blue Streak;</rdf:li>
+     <rdf:li>US Airways Express,</rdf:li>
+     <rdf:li>Bombardier, CRJ, Bombardier CRJ, CRJ-200, Bombardier CRJ-200, CRJ2,</rdf:li>
+     <rdf:li>OH, JIA, PSA Airlines, Blue Streak,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <dc:description>

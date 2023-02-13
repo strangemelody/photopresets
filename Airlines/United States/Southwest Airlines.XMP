@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>WN; SWA; Southwest Airlines; Southwest;</rdf:li>
+     <rdf:li>WN, SWA, Southwest Airlines, Southwest,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

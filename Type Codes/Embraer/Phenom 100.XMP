@@ -15,7 +15,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>Embraer; Embraer Phenom; Phenom 100; Embraer Phenom 100; E50P; business jet;</rdf:li>
+     <rdf:li>Embraer, Embraer Phenom, Phenom 100, Embraer Phenom 100, E50P, business jet,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <photomechanic:FieldsToApply>

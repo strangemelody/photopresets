@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>M6; AJT; Amerijet International; Amerijet;</rdf:li>
+     <rdf:li>M6, AJT, Amerijet International, Amerijet,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

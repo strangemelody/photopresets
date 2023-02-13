@@ -15,7 +15,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>McDonnell Douglas; C-17; Boeing C-17; C-17 Globemaster III; McDonnell Douglas C-17 Globemaster III; C17</rdf:li>
+     <rdf:li>McDonnell Douglas, C-17, Boeing C-17, C-17 Globemaster III, McDonnell Douglas C-17 Globemaster III, C17</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <photomechanic:FieldsToApply>

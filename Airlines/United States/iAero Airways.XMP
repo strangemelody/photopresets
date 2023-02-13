@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>WQ; SWQ; iAero Airways; Swift Air; Swiftflight</rdf:li>
+     <rdf:li>WQ, SWQ, iAero Airways, Swift Air, Swiftflight</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>EV; ASQ; ExpressJet Airlines; ExpressJet;</rdf:li>
+     <rdf:li>EV, ASQ, ExpressJet Airlines, ExpressJet,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

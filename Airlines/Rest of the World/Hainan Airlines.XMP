@@ -14,7 +14,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>HU; CHH; Hainan Airlines; Hainan;</rdf:li>
+     <rdf:li>HU, CHH, Hainan Airlines, Hainan,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:OrganisationInImageName>

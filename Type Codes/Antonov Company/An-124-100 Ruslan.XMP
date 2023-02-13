@@ -15,7 +15,7 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>Antonov; An-124-100 Ruslan; An-124-100; An-124; Antonov An-124-100; A124;</rdf:li>
+     <rdf:li>Antonov, An-124-100 Ruslan, An-124-100, An-124, Antonov An-124-100, A124,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <photomechanic:FieldsToApply>

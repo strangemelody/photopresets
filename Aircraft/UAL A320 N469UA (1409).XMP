@@ -22,8 +22,8 @@
    </photoshop:SupplementalCategories>
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>UA; UAL; United Airlines; United;</rdf:li>
-     <rdf:li>Airbus; A320; Airbus A320;</rdf:li>
+     <rdf:li>UA, UAL, United Airlines, United,</rdf:li>
+     <rdf:li>Airbus, A320, Airbus A320,</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <dc:description>
