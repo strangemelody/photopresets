@@ -10,7 +10,7 @@
    photoshop:State="Ohio"
    photoshop:Country="United States of America"
    Iptc4xmpCore:CountryCode="US"
-   Iptc4xmpCore:Location="Wright-Patterson AFB"
+   Iptc4xmpCore:Location="National Museum of the United States Air Force"
    photomechanic:ColorClassEval="0"
    photomechanic:ColorClassApply="False"
    photomechanic:RatingEval="0"
@@ -21,14 +21,14 @@
    photomechanic:ApplyDateType="2">
    <dc:subject>
     <rdf:Bag>
-     <rdf:li>FFO; KFFO; Wright-Patterson Air Force Base; Wright-Patterson AFB; WPAFB;</rdf:li>
+     <rdf:li>FFO; KFFO; Wright-Patterson Air Force Base; Wright-Patterson AFB; WPAFB; USAF Museum; National Museum of the United States Air Force; National Museum of the U.S. Air Force;</rdf:li>
     </rdf:Bag>
    </dc:subject>
    <Iptc4xmpExt:LocationCreated>
     <rdf:Bag>
      <rdf:li>
       <rdf:Description
-       Iptc4xmpExt:Sublocation="Wright-Patterson AFB"
+       Iptc4xmpExt:Sublocation="National Museum of the United States Air Force"
        Iptc4xmpExt:City="Dayton"
        Iptc4xmpExt:ProvinceState="Ohio"
        Iptc4xmpExt:CountryName="United States of America"
@@ -45,13 +45,21 @@
    </Iptc4xmpExt:LocationCreated>
    <Iptc4xmpExt:LocationShown>
     <rdf:Bag>
-     <rdf:li
-      Iptc4xmpExt:Sublocation="Wright-Patterson AFB"
-      Iptc4xmpExt:City="Dayton"
-      Iptc4xmpExt:ProvinceState="Ohio"
-      Iptc4xmpExt:CountryName="United States of America"
-      Iptc4xmpExt:CountryCode="US"
-      Iptc4xmpExt:WorldRegion=""/>
+     <rdf:li>
+      <rdf:Description
+       Iptc4xmpExt:Sublocation="National Museum of the United States Air Force"
+       Iptc4xmpExt:City="Dayton"
+       Iptc4xmpExt:ProvinceState="Ohio"
+       Iptc4xmpExt:CountryName="United States of America"
+       Iptc4xmpExt:CountryCode="US"
+       Iptc4xmpExt:WorldRegion="">
+      <Iptc4xmpExt:LocationId>
+       <rdf:Bag>
+        <rdf:li>KFFO</rdf:li>
+       </rdf:Bag>
+      </Iptc4xmpExt:LocationId>
+      </rdf:Description>
+     </rdf:li>
     </rdf:Bag>
    </Iptc4xmpExt:LocationShown>
    <photomechanic:FieldsToApply>

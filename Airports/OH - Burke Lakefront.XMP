@@ -26,13 +26,21 @@
    </dc:subject>
    <Iptc4xmpExt:LocationCreated>
     <rdf:Bag>
-     <rdf:li
-      Iptc4xmpExt:Sublocation="Burke Lakefront Airport"
-      Iptc4xmpExt:City="Cleveland"
-      Iptc4xmpExt:ProvinceState="Ohio"
-      Iptc4xmpExt:CountryName="United States of America"
-      Iptc4xmpExt:CountryCode="US"
-      Iptc4xmpExt:WorldRegion=""/>
+     <rdf:li>
+      <rdf:Description
+       Iptc4xmpExt:Sublocation="Burke Lakefront Airport"
+       Iptc4xmpExt:City="Cleveland"
+       Iptc4xmpExt:ProvinceState="Ohio"
+       Iptc4xmpExt:CountryName="United States of America"
+       Iptc4xmpExt:CountryCode="US"
+       Iptc4xmpExt:WorldRegion="">
+      <Iptc4xmpExt:LocationId>
+       <rdf:Bag>
+        <rdf:li>KBKL</rdf:li>
+       </rdf:Bag>
+      </Iptc4xmpExt:LocationId>
+      </rdf:Description>
+     </rdf:li>
     </rdf:Bag>
    </Iptc4xmpExt:LocationCreated>
    <Iptc4xmpExt:LocationShown>

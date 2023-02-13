@@ -36,13 +36,21 @@
    </Iptc4xmpCore:SubjectCode>
    <Iptc4xmpExt:LocationCreated>
     <rdf:Bag>
-     <rdf:li
-      Iptc4xmpExt:Sublocation="Cincinnati/Northern Kentucky Intl Airport"
-      Iptc4xmpExt:City="Hebron"
-      Iptc4xmpExt:ProvinceState="Kentucky"
-      Iptc4xmpExt:CountryName="United States of America"
-      Iptc4xmpExt:CountryCode="US"
-      Iptc4xmpExt:WorldRegion=""/>
+     <rdf:li>
+      <rdf:Description
+       Iptc4xmpExt:Sublocation="Cincinnati/Northern Kentucky Intl Airport"
+       Iptc4xmpExt:City="Hebron"
+       Iptc4xmpExt:ProvinceState="Kentucky"
+       Iptc4xmpExt:CountryName="United States of America"
+       Iptc4xmpExt:CountryCode="US"
+       Iptc4xmpExt:WorldRegion="">
+      <Iptc4xmpExt:LocationId>
+       <rdf:Bag>
+        <rdf:li>KCVG</rdf:li>
+       </rdf:Bag>
+      </Iptc4xmpExt:LocationId>
+      </rdf:Description>
+     </rdf:li>
     </rdf:Bag>
    </Iptc4xmpExt:LocationCreated>
    <Iptc4xmpExt:LocationShown>
