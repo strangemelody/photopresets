@@ -1,0 +1,36 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 5.6.0">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:photomechanic="http://ns.camerabits.com/photomechanic/1.0/"
+   photoshop:Category="ATR 42-600"
+   photomechanic:ColorClassEval="0"
+   photomechanic:ColorClassApply="False"
+   photomechanic:RatingEval="0"
+   photomechanic:RatingApply="False"
+   photomechanic:TagEval="0"
+   photomechanic:TagApply="False"
+   photomechanic:CaptionMergeStyle="1"
+   photomechanic:ApplyDateType="2">
+   <dc:subject>
+    <rdf:Bag>
+     <rdf:li>ATR; ATR 42; ATR 42-600; AT46</rdf:li>
+    </rdf:Bag>
+   </dc:subject>
+   <photomechanic:FieldsToApply>
+    <rdf:Bag>
+     <rdf:li>0x00</rdf:li>
+     <rdf:li>0x20f</rdf:li>
+     <rdf:li>0x219</rdf:li>
+    </rdf:Bag>
+   </photomechanic:FieldsToApply>
+   <photomechanic:FieldsToMerge>
+    <rdf:Bag>
+     <rdf:li>0x00</rdf:li>
+     <rdf:li>0x219</rdf:li>
+    </rdf:Bag>
+   </photomechanic:FieldsToMerge>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
