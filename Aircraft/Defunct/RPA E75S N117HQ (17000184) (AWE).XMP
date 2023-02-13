@@ -1,0 +1,70 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 5.6.0">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/"
+    xmlns:photomechanic="http://ns.camerabits.com/photomechanic/1.0/"
+   photoshop:Category="Embraer 175"
+   photoshop:Headline="{day0}{monthname3:0:UC}{year2} {locationidtaken} · {featuredorgname} · {category} · {persons}"
+   photomechanic:ColorClassEval="0"
+   photomechanic:ColorClassApply="False"
+   photomechanic:RatingEval="0"
+   photomechanic:RatingApply="False"
+   photomechanic:TagEval="0"
+   photomechanic:TagApply="False"
+   photomechanic:CaptionMergeStyle="1"
+   photomechanic:ApplyDateType="2">
+   <photoshop:SupplementalCategories>
+    <rdf:Bag>
+     <rdf:li>17000184</rdf:li>
+    </rdf:Bag>
+   </photoshop:SupplementalCategories>
+   <dc:subject>
+    <rdf:Bag>
+     <rdf:li>YX; RPA; Republic Airways; Brickyard; US Airways Express;</rdf:li>
+     <rdf:li>Embraer; E-Jets; Embraer E-Jets; Embraer 175; E75S;</rdf:li>
+    </rdf:Bag>
+   </dc:subject>
+   <dc:description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">{featuredorgname}&#xA;{category}&#xA;{persons} (cn {suppcat1})&#xA;&#xA;{location}&#xA;{city}, {state}&#xA;{monthname} {day}, {year4}</rdf:li>
+    </rdf:Alt>
+   </dc:description>
+   <Iptc4xmpExt:PersonInImage>
+    <rdf:Bag>
+     <rdf:li>N117HQ</rdf:li>
+    </rdf:Bag>
+   </Iptc4xmpExt:PersonInImage>
+   <Iptc4xmpExt:OrganisationInImageName>
+    <rdf:Bag>
+     <rdf:li>Republic Airways</rdf:li>
+    </rdf:Bag>
+   </Iptc4xmpExt:OrganisationInImageName>
+   <Iptc4xmpExt:OrganisationInImageCode>
+    <rdf:Bag>
+     <rdf:li>RPA</rdf:li>
+    </rdf:Bag>
+   </Iptc4xmpExt:OrganisationInImageCode>
+   <photomechanic:FieldsToApply>
+    <rdf:Bag>
+     <rdf:li>0x00</rdf:li>
+     <rdf:li>0x20f</rdf:li>
+     <rdf:li>0x1214</rdf:li>
+     <rdf:li>0x219</rdf:li>
+     <rdf:li>0x278</rdf:li>
+     <rdf:li>0x269</rdf:li>
+     <rdf:li>0x800e</rdf:li>
+     <rdf:li>0x8011</rdf:li>
+     <rdf:li>0x8012</rdf:li>
+    </rdf:Bag>
+   </photomechanic:FieldsToApply>
+   <photomechanic:FieldsToMerge>
+    <rdf:Bag>
+     <rdf:li>0x00</rdf:li>
+     <rdf:li>0x219</rdf:li>
+    </rdf:Bag>
+   </photomechanic:FieldsToMerge>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

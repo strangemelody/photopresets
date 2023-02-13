@@ -1,0 +1,78 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 5.6.0">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
+    xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/"
+    xmlns:photomechanic="http://ns.camerabits.com/photomechanic/1.0/"
+   photoshop:City="Charlotte"
+   photoshop:State="North Carolina"
+   photoshop:Country="United States of America"
+   Iptc4xmpCore:CountryCode="US"
+   Iptc4xmpCore:Location="Charlotte Douglas Intl Airport"
+   photomechanic:ColorClassEval="0"
+   photomechanic:ColorClassApply="False"
+   photomechanic:RatingEval="0"
+   photomechanic:RatingApply="False"
+   photomechanic:TagEval="0"
+   photomechanic:TagApply="False"
+   photomechanic:CaptionMergeStyle="1"
+   photomechanic:ApplyDateType="2">
+   <dc:subject>
+    <rdf:Bag>
+     <rdf:li>CLT; KCLT; Charlotte Douglas Intl;</rdf:li>
+    </rdf:Bag>
+   </dc:subject>
+   <Iptc4xmpExt:LocationCreated>
+    <rdf:Bag>
+     <rdf:li>
+      <rdf:Description
+       Iptc4xmpExt:Sublocation="Charlotte Douglas Intl Airport"
+       Iptc4xmpExt:City="Charlotte"
+       Iptc4xmpExt:ProvinceState="North Carolina"
+       Iptc4xmpExt:CountryName="United States of America"
+       Iptc4xmpExt:CountryCode="US"
+       Iptc4xmpExt:WorldRegion="">
+      <Iptc4xmpExt:LocationId>
+       <rdf:Bag>
+        <rdf:li>KCLT</rdf:li>
+       </rdf:Bag>
+      </Iptc4xmpExt:LocationId>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Bag>
+   </Iptc4xmpExt:LocationCreated>
+   <Iptc4xmpExt:LocationShown>
+    <rdf:Bag>
+     <rdf:li
+      Iptc4xmpExt:Sublocation="Charlotte Douglas Intl Airport"
+      Iptc4xmpExt:City="Charlotte"
+      Iptc4xmpExt:ProvinceState="North Carolina"
+      Iptc4xmpExt:CountryName="United States of America"
+      Iptc4xmpExt:CountryCode="US"
+      Iptc4xmpExt:WorldRegion=""/>
+    </rdf:Bag>
+   </Iptc4xmpExt:LocationShown>
+   <photomechanic:FieldsToApply>
+    <rdf:Bag>
+     <rdf:li>0x00</rdf:li>
+     <rdf:li>0x25a</rdf:li>
+     <rdf:li>0x25f</rdf:li>
+     <rdf:li>0x265</rdf:li>
+     <rdf:li>0x264</rdf:li>
+     <rdf:li>0x219</rdf:li>
+     <rdf:li>0x25c</rdf:li>
+     <rdf:li>0x800f</rdf:li>
+     <rdf:li>0x8010</rdf:li>
+    </rdf:Bag>
+   </photomechanic:FieldsToApply>
+   <photomechanic:FieldsToMerge>
+    <rdf:Bag>
+     <rdf:li>0x00</rdf:li>
+     <rdf:li>0x219</rdf:li>
+    </rdf:Bag>
+   </photomechanic:FieldsToMerge>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
